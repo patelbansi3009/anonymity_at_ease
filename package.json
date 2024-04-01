@@ -1,0 +1,24 @@
+{
+  "name": "newfolder",
+  "version": "1.0.0",
+  "description": "first express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sarvagna Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookie-session": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.9",
+    "mysql": "^2.17.1",
+    "sha1": "^1.1.1",
+    "uuid": "^3.3.3"
+  }
+}
